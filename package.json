@@ -1,6 +1,6 @@
 {
   "name": "ogg-parser",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "small streaming parser for ogg audio files",
   "main": "oggParser.js",
   "scripts": {
@@ -29,7 +29,7 @@
     "stream-tokenizr": "~0.3.0",
     "lodash": "~2.4.1",
     "debuglog": "~1.0.1",
-    "vorbis-parser": "~0.3.0",
+    "vorbis-parser": "~0.3.1",
     "long": "~1.1.2"
   },
   "devDependencies": {
